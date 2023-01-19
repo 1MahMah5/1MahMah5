@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1MahMah5
-- 👀 I’m interested in web development and software engineering
+- 👀 I’m interested in web development, game development and software engineering
 - 🌱 I’m currently learning front-end dev
 - 📫 How to reach me: mahrougbk@gmail.com
 
